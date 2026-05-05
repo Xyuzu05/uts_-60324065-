@@ -21,7 +21,7 @@ Aplikasi ini adalah sistem CRUD (Create, Read, Update, Delete) sederhana untuk m
 ## Struktur Folder
 
 ```text
-uts_smt4/
+uts_[60324065]/
 |-- index.php
 |-- create.php
 |-- edit.php
